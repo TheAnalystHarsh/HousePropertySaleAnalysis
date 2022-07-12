@@ -1,6 +1,7 @@
-# HousePropertySaleAnalysis
+# HousePropertySaleAnalysis by SQL
 
 Context
+
 A multivariate time series has more than one time-dependent variable. Each variable depends not only on its past values but also has some dependency on other variables.
 
 We have accumulated property sales data for the 2007-2019 period for one specific region. The data contains sales prices for houses and units with 1,2,3,4,5 bedrooms. These are the cross-depended variables.
